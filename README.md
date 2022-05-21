@@ -7,5 +7,6 @@ As stated above, the main purpose is to provide simple example.
 ## Deployment
 more blablabla
 ## How To Contribute
+Please fork this repository and then issue Pull requests for review
 ### Copyright
 2022 git training

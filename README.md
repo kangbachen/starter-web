@@ -7,3 +7,5 @@ As stated above, the main purpose is to provide simple example.
 ## Deployment
 more blablabla
 ## How To Contribute
+### Copyright
+2022 git training

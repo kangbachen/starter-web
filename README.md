@@ -9,4 +9,4 @@ more blablabla
 ## How To Contribute
 Please fork this repository and then issue Pull requests for review
 ### Copyright
-2022 git training
+2022 git training. All rights reserved.
